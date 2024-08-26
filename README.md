@@ -14,31 +14,39 @@ Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelha
 
 
 
-//Array 
-const time = ("Gustavo Henrique e Leandro Soares")
-console.log(time)
-const Fruta = prompt("Qual fruta você deseja comprar?")
-const Hortfruiut = ["Uva", "maçã", "Melancia", "Banana", "Jaca"]
+/*const nome1 = "Gustavo"
+const apelido = "Henrique"
+const fullname = nome1 + " " + apelido
 
-console.log(Hortfruiut.pop(3));
-console.log(Hortfruiut.push("Manga", "Abacaxi", "Melão", "Cereja"));
-console.log(Hortfruiut.sort());
-console.log(Hortfruiut.length);
-console.log(Hortfruiut)
+console.log("Meu nome é:" + fullname);
 
-switch(Fruta){
-  case "Uva":
-    console.log(`A Fruta ${Fruta} custa R$3;50`)
-    break;
-  case "maçã":
-    console.log(`A Fruta ${Fruta}, custa R$4,50 por unidade`)
-    break;
-    case "Melancia":
-    console.log(`A Fruta ${Fruta} custa R$12;50`)
-    break;
-    case "Banana":!
-    console.log(`A Fruta ${Fruta} custa R$5;50`)
-    break;
-    default:
-    console.log(`A Fruta ${Fruta} Está em falta no momento.`)
-}
+let a = 20
+let b = 30 
+let soma = a + b
+
+console.log(soma)
+
+let c =24
+let d = 65
+let subtrair = c - d
+
+console.log(subtrair)
+
+let e = 78
+let f = 75
+let multiplicar = e * f
+
+console.log(multiplicar)
+
+
+let g = 56
+let h = 54
+let dividir = g / h
+
+console.log(dividir)
+
+const pi = 23478
+const be = 645
+const circumference = 4 * pi * be;
+
+console.log("a circunferencia é:" + circumference + " unidades ")
