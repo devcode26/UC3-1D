@@ -13,8 +13,9 @@ Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelha
 
 
 
+```js
 
-/*const nome1 = "Gustavo"
+const nome1 = "Gustavo"
 const apelido = "Henrique"
 const fullname = nome1 + " " + apelido
 
@@ -46,6 +47,7 @@ let dividir = g / h
 console.log(dividir)
 
 const pi = 23478
+```
 const be = 645
 const circumference = 4 * pi * be;
 
