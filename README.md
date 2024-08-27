@@ -47,8 +47,9 @@ let dividir = g / h
 console.log(dividir)
 
 const pi = 23478
-```
+
 const be = 645
 const circumference = 4 * pi * be;
 
 console.log("a circunferencia é:" + circumference + " unidades ")
+```
